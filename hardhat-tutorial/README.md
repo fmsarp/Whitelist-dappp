@@ -12,4 +12,3 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 
-Whitelist Contract Address: 0x8dF15EfAA40EcFDf5CAbb61bA5Bb3bDd3a55e965
